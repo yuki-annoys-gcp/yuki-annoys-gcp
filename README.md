@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the next bug
 - 💞️ I’m looking to collaborate on shiny/bq/looker data studio project
 - 📫 How to reach me pigeon mail/scream very louldy or look up at the stars and think of me
+- my number is 180416 just in case someone thinks its not me
 
 <!---
 yuki-annoys-gcp/yuki-annoys-gcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
